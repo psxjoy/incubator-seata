@@ -24,6 +24,8 @@ package org.apache.seata.common.executor;
  */
 public interface Callback<T> {
 
+
+
     /**
      * Execute t.
      *
